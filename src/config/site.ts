@@ -1,6 +1,3 @@
-// src/config/site.ts
-// Single source of truth for brand, navigation and marketing copy.
-// Rebrand the whole template by editing this file only.
 import {
   BarChart3,
   Command,
